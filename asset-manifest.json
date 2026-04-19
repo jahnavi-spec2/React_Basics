@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Basics/static/css/main.76aec624.css",
+    "main.js": "/React_Basics/static/js/main.2aaef254.js",
+    "static/js/453.3b6caff6.chunk.js": "/React_Basics/static/js/453.3b6caff6.chunk.js",
+    "static/media/logo.svg": "/React_Basics/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_Basics/index.html",
+    "main.76aec624.css.map": "/React_Basics/static/css/main.76aec624.css.map",
+    "main.2aaef254.js.map": "/React_Basics/static/js/main.2aaef254.js.map",
+    "453.3b6caff6.chunk.js.map": "/React_Basics/static/js/453.3b6caff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aec624.css",
+    "static/js/main.2aaef254.js"
+  ]
+}
