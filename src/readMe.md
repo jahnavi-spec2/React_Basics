@@ -1,0 +1,2 @@
+why to use react router?
+koi bhi websit edekho age say wensite.com..page reload ho rha hia when u switch page ...react router s kya hota hai ...see youtube pe sidebars and navbars remisns same baaki beech ka content chnge gota hai...ab agr koi side brs se click kr rhe navigation krne ko say we chane music to news to horror...the pages comes instantly without downloading ...ye sab single page sehi ho nnjaati hai

@@ -9,11 +9,13 @@ export default function TextForm(props) {
     console.log("UpperCase was clicked"+ text);
     let newtext=text.toUpperCase();
    setText(newtext);
+   props.showAlert("converted to uppercase", "success");
   }
   const handleLowclick= () => {
     console.log("LowerCase was clicked"+ text);
     let newtext=text.toLowerCase();
    setText(newtext);
+   props.showAlert("converted to Lowercase", "success");
   }
 
   const handleOnChange= (event) =>{// ye type krne ko tha wrna we cant make anty change in texton text area
