@@ -6,7 +6,7 @@ import React, {useState} from 'react';
 import Alert from './components/Alert';
 import About from './components/About';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
  Routes,
   Route,
 Link
@@ -75,8 +75,8 @@ const showAlert =(message,type)=>{
 
   <div className="container my-3">
     <Routes>
-      <Route path="/about" element={<About />} />
-      <Route path="/" element={
+      <Route  exact path="/about" element={<About />} />
+      <Route exact path="/" element={
         <TextForm showAlert={showAlert} heading="Enter the text to analyse below" mode={mode} />
       } />
     </Routes>
